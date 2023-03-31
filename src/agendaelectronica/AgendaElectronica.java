@@ -15,6 +15,7 @@ public class AgendaElectronica {
         //centramos la pantalla en el medio
         pantalla.setLocationRelativeTo(null);
         
+        System.out.println("hola");
         
     
     }
